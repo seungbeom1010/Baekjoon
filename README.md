@@ -1,7 +1,5 @@
 # Algorithms
 
-1일 1문제 풀이 Challenge
-
 <br />
 <br />
 
